@@ -1,0 +1,9 @@
+﻿  BD_work.cpp
+c:\project\ftpclient\ftpclient\bd_work.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+  Decompression_ver2.cpp
+  MyForm.cpp
+c:\project\ftpclient\ftpclient\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  BD_work.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FTPClient.vcxproj -> C:\Project\FTPClient\Debug\FTPClient.exe

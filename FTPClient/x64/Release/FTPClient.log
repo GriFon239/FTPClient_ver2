@@ -1,0 +1,7 @@
+﻿  BD_work.cpp
+  Decompression_ver2.cpp
+  MyForm.cpp
+c:\project\ftpclient\ftpclient\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  FTPClient.vcxproj -> C:\Project\FTPClient\x64\Release\FTPClient.exe
